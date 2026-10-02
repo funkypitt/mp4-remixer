@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">MP4 Remixer</string>
+    <string name="empty_title">Square or lighter videos</string>
+    <string name="empty_subtitle">Pick one or more videos, then make them square, bring them down to 1080p or 720p, or both. The new videos go to Movies/%1$s; the originals are left alone.</string>
+    <string name="choose_videos">Choose videos</string>
+    <string name="browse_files">Browse files instead</string>
+    <string name="add_videos">Add videos</string>
+    <string name="option_square">Square (1:1)</string>
+    <string name="option_square_hint">Drag the frame on each video to choose what the square keeps.</string>
+    <string name="option_size">Resolution</string>
+    <string name="option_size_hint">A video already at this resolution or below keeps its own.</string>
+    <string name="size_original">Original</string>
+    <string name="start">Start</string>
+    <string name="share">Share</string>
+    <string name="share_all">Share all %1$d</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear the list</string>
+    <string name="remove">Remove from the list</string>
+    <string name="video_name_prefix">Video</string>
+    <string name="status_reading">Reading…</string>
+    <string name="status_queued">Waiting</string>
+    <string name="status_working">Converting… %1$d%%</string>
+    <string name="status_done">Saved in Movies/%1$s</string>
+    <string name="status_nothing">Nothing to change with these settings</string>
+    <string name="status_failed">The conversion failed</string>
+    <string name="status_unreadable">This video cannot be read</string>
+    <string name="status_not_saved">The new video could not be saved</string>
+    <string name="status_cancelled">Cancelled</string>
+    <string name="notif_channel">Conversion</string>
+    <string name="notif_title">Converting %1$d of %2$d</string>
+    <string name="notif_title_generic">Converting</string>
+    <string name="notif_starting">Starting…</string>
+    <string name="credits">Pierre Gallaz · developed with Claude Code</string>
+</resources>

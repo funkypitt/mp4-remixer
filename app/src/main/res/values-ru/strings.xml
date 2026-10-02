@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_title">Квадратные или более лёгкие видео</string>
+    <string name="empty_subtitle">Выберите одно или несколько видео и сделайте их квадратными, уменьшите до 1080p или 720p, или и то и другое. Новые видео сохраняются в Movies/%1$s; оригиналы не изменяются.</string>
+    <string name="choose_videos">Выбрать видео</string>
+    <string name="browse_files">Найти в файлах</string>
+    <string name="add_videos">Добавить видео</string>
+    <string name="option_square">Квадрат (1:1)</string>
+    <string name="option_square_hint">Перетащите рамку на каждом видео, чтобы выбрать, что останется в квадрате.</string>
+    <string name="option_size">Разрешение</string>
+    <string name="option_size_hint">Видео с таким или меньшим разрешением сохраняет своё.</string>
+    <string name="size_original">Исходное</string>
+    <string name="start">Начать</string>
+    <string name="share">Поделиться</string>
+    <string name="share_all">Поделиться всеми (%1$d)</string>
+    <string name="cancel">Отмена</string>
+    <string name="clear">Очистить список</string>
+    <string name="remove">Убрать из списка</string>
+    <string name="video_name_prefix">Видео</string>
+    <string name="status_reading">Чтение…</string>
+    <string name="status_queued">Ожидание</string>
+    <string name="status_working">Преобразование… %1$d%%</string>
+    <string name="status_done">Сохранено в Movies/%1$s</string>
+    <string name="status_nothing">С этими настройками менять нечего</string>
+    <string name="status_failed">Не удалось преобразовать видео</string>
+    <string name="status_unreadable">Это видео не читается</string>
+    <string name="status_not_saved">Не удалось сохранить новое видео</string>
+    <string name="status_cancelled">Отменено</string>
+    <string name="notif_channel">Преобразование</string>
+    <string name="notif_title">Преобразование: %1$d из %2$d</string>
+    <string name="notif_title_generic">Преобразование</string>
+    <string name="notif_starting">Запуск…</string>
+    <string name="credits">Pierre Gallaz · разработано с Claude Code</string>
+</resources>

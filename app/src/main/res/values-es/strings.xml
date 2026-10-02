@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_title">Vídeos cuadrados o más ligeros</string>
+    <string name="empty_subtitle">Elija uno o varios vídeos y hágalos cuadrados, redúzcalos a 1080p o 720p, o ambas cosas. Los nuevos vídeos van a Movies/%1$s; los originales no se tocan.</string>
+    <string name="choose_videos">Elegir vídeos</string>
+    <string name="browse_files">Explorar archivos</string>
+    <string name="add_videos">Añadir vídeos</string>
+    <string name="option_square">Cuadrado (1:1)</string>
+    <string name="option_square_hint">Arrastre el marco sobre cada vídeo para elegir lo que conserva el cuadrado.</string>
+    <string name="option_size">Resolución</string>
+    <string name="option_size_hint">Un vídeo que ya tiene esta resolución o menos conserva la suya.</string>
+    <string name="size_original">Original</string>
+    <string name="start">Iniciar</string>
+    <string name="share">Compartir</string>
+    <string name="share_all">Compartir los %1$d</string>
+    <string name="cancel">Cancelar</string>
+    <string name="clear">Vaciar la lista</string>
+    <string name="remove">Quitar de la lista</string>
+    <string name="video_name_prefix">Vídeo</string>
+    <string name="status_reading">Leyendo…</string>
+    <string name="status_queued">En espera</string>
+    <string name="status_working">Convirtiendo… %1$d%%</string>
+    <string name="status_done">Guardado en Movies/%1$s</string>
+    <string name="status_nothing">Nada que cambiar con estos ajustes</string>
+    <string name="status_failed">La conversión ha fallado</string>
+    <string name="status_unreadable">Este vídeo no se puede leer</string>
+    <string name="status_not_saved">No se ha podido guardar el nuevo vídeo</string>
+    <string name="status_cancelled">Cancelado</string>
+    <string name="notif_channel">Conversión</string>
+    <string name="notif_title">Convirtiendo %1$d de %2$d</string>
+    <string name="notif_title_generic">Convirtiendo</string>
+    <string name="notif_starting">Iniciando…</string>
+    <string name="credits">Pierre Gallaz · desarrollado con Claude Code</string>
+</resources>

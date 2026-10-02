@@ -1,0 +1,1 @@
+Makes videos square (1:1) or brings them down to 1080p or 720p

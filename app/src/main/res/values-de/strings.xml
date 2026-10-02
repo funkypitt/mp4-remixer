@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_title">Quadratische oder leichtere Videos</string>
+    <string name="empty_subtitle">Wählen Sie ein oder mehrere Videos, machen Sie sie quadratisch, verkleinern Sie sie auf 1080p oder 720p, oder beides. Die neuen Videos kommen nach Movies/%1$s; die Originale bleiben unverändert.</string>
+    <string name="choose_videos">Videos auswählen</string>
+    <string name="browse_files">Dateien durchsuchen</string>
+    <string name="add_videos">Videos hinzufügen</string>
+    <string name="option_square">Quadrat (1:1)</string>
+    <string name="option_square_hint">Ziehen Sie den Rahmen auf jedem Video, um zu bestimmen, was das Quadrat behält.</string>
+    <string name="option_size">Auflösung</string>
+    <string name="option_size_hint">Ein Video mit dieser oder geringerer Auflösung behält seine eigene.</string>
+    <string name="size_original">Original</string>
+    <string name="start">Starten</string>
+    <string name="share">Teilen</string>
+    <string name="share_all">Alle %1$d teilen</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="clear">Liste leeren</string>
+    <string name="remove">Aus der Liste entfernen</string>
+    <string name="video_name_prefix">Video</string>
+    <string name="status_reading">Wird gelesen…</string>
+    <string name="status_queued">Wartet</string>
+    <string name="status_working">Umwandlung… %1$d%%</string>
+    <string name="status_done">Gespeichert in Movies/%1$s</string>
+    <string name="status_nothing">Mit diesen Einstellungen gibt es nichts zu ändern</string>
+    <string name="status_failed">Die Umwandlung ist fehlgeschlagen</string>
+    <string name="status_unreadable">Dieses Video kann nicht gelesen werden</string>
+    <string name="status_not_saved">Das neue Video konnte nicht gespeichert werden</string>
+    <string name="status_cancelled">Abgebrochen</string>
+    <string name="notif_channel">Umwandlung</string>
+    <string name="notif_title">Umwandlung %1$d von %2$d</string>
+    <string name="notif_title_generic">Umwandlung</string>
+    <string name="notif_starting">Wird gestartet…</string>
+    <string name="credits">Pierre Gallaz · entwickelt mit Claude Code</string>
+</resources>

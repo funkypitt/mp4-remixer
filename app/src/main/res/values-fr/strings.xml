@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_title">Vidéos carrées ou plus légères</string>
+    <string name="empty_subtitle">Choisissez une ou plusieurs vidéos, puis rendez-les carrées, ramenez-les à 1080p ou 720p, ou les deux. Les nouvelles vidéos vont dans Movies/%1$s ; les originaux ne sont pas modifiés.</string>
+    <string name="choose_videos">Choisir des vidéos</string>
+    <string name="browse_files">Parcourir les fichiers</string>
+    <string name="add_videos">Ajouter des vidéos</string>
+    <string name="option_square">Carré (1:1)</string>
+    <string name="option_square_hint">Faites glisser le cadre sur chaque vidéo pour choisir ce que le carré garde.</string>
+    <string name="option_size">Résolution</string>
+    <string name="option_size_hint">Une vidéo déjà à cette résolution ou en dessous garde la sienne.</string>
+    <string name="size_original">Originale</string>
+    <string name="start">Démarrer</string>
+    <string name="share">Partager</string>
+    <string name="share_all">Tout partager (%1$d)</string>
+    <string name="cancel">Annuler</string>
+    <string name="clear">Vider la liste</string>
+    <string name="remove">Retirer de la liste</string>
+    <string name="video_name_prefix">Vidéo</string>
+    <string name="status_reading">Lecture…</string>
+    <string name="status_queued">En attente</string>
+    <string name="status_working">Conversion… %1$d%%</string>
+    <string name="status_done">Enregistrée dans Movies/%1$s</string>
+    <string name="status_nothing">Rien à changer avec ces réglages</string>
+    <string name="status_failed">La conversion a échoué</string>
+    <string name="status_unreadable">Cette vidéo est illisible</string>
+    <string name="status_not_saved">La nouvelle vidéo n\'a pas pu être enregistrée</string>
+    <string name="status_cancelled">Annulée</string>
+    <string name="notif_channel">Conversion</string>
+    <string name="notif_title">Conversion %1$d sur %2$d</string>
+    <string name="notif_title_generic">Conversion</string>
+    <string name="notif_starting">Démarrage…</string>
+    <string name="credits">Pierre Gallaz · développé avec Claude Code</string>
+</resources>

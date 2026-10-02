@@ -1,0 +1,1 @@
+Pick videos from the gallery, or share them to the app, then make them square, bring them down to 1080p or 720p, or both. For the square you drag a frame over each video to choose the part it keeps. The new videos go to Movies/MP4 Remixer and the originals are left alone. One screen, whole batches, and it keeps going in the background. No network permission, no ads, no account.

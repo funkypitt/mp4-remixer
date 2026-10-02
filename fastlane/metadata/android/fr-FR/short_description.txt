@@ -1,0 +1,1 @@
+Rend les vidéos carrées (1:1) ou les ramène à 1080p ou 720p
